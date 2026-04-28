@@ -2,8 +2,6 @@ package com.atm;
 
 import java.util.List;
 import java.util.ArrayList;
-
-
 public class MiniStatement {
 
     private List<String> transactions;
