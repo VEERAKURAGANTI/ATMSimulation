@@ -16,7 +16,7 @@ public class MiniStatement {
 
     public void showMiniStatement() {
         if (transactions.isEmpty()) {
-            System.out.println("No transactions available");
+            System.out.println("No transactions available <-__->");
         } else {
             System.out.println("\n--- Mini Statement ---");
             for (String txn : transactions) {
