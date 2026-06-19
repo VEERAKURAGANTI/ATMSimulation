@@ -3,7 +3,7 @@ package com.atm;
 import java.util.List;
 import java.util.ArrayList;
 public class MiniStatement {
-
+      Scanner sc=new Scanner(System.in);
     private List<String> transactions;
 
     public MiniStatement() {
